@@ -1,0 +1,7 @@
+family,skewness,excess_kurtosis,D'Agostino_p
+gaussian,-0.0483,-0.0441,0.6355
+laplace,-0.0362,3.0591,0.0
+uniform,0.0038,-1.161,0.0
+student_t,0.8286,20.6285,0.0
+lognormal,2.7516,13.7443,0.0
+bimodal,0.0488,-0.7763,0.0
